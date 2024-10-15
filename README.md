@@ -1,4 +1,4 @@
-[![Coding Banner](https://miro.medium.com/v2/resize:fit:1400/1*W9OS9P9wAW3dbr1Awg6zFg.png)](https://medium.com/@sanjay.rathor038/how-to-get-a-job-in-software-development-in-2023-3cbd4edb64cc)
+
 
 <h1 align="center">Hi 👋, I'm Mouhamed Dhia Shiri</h1>
 <h3 align="center">Aspiring computer science student</h3>
