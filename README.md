@@ -13,8 +13,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mouhamed dhia shiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouhamed dhia shiri" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mouhamed dhia shiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mouhamed dhia shiri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mouhamed-dhia-shiri-9479b6258/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouhamed dhia shiri" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/profile/mouhameddhia_sh1" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mouhamed dhia shiri" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
