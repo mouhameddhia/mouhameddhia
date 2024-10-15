@@ -32,7 +32,12 @@
   <!-- Add more icons as needed -->
 </p>
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouhameddhia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mouhameddhia&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mouhameddhia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mouhameddhia&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouhameddhia&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhameddhia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
